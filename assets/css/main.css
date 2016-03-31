@@ -2872,7 +2872,7 @@
 /* Intro */
 
 	#intro {
-		background: url("../../images/wow2.png");
+		background: url(), url("../../images/wow2.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: center;
@@ -2882,7 +2882,7 @@
 /* One */
 
 	#one {
-		background: url("../../images/Collage1.png");
+		background: url(), url("../../images/Collage1.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2891,7 +2891,7 @@
 /* Two */
 
 	#two {
-		background: url("../../images/Collage2.png");
+		background: url(), url("../../images/Collage2.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;

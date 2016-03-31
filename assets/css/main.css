@@ -1941,7 +1941,6 @@
 			top: 0;
 			width: 100%;
 			height: 100%;
-			background: url("images/overlay.png");
 		}
 
 		.image img {
@@ -2873,7 +2872,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/wow2.png");
+		background: url("../../images/wow2.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: center;
@@ -2883,7 +2882,7 @@
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/Collage1.png");
+		background: url("../../images/Collage1.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2892,7 +2891,7 @@
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/Collage2.png");
+		background: url("../../images/Collage2.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
